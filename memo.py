@@ -18,7 +18,7 @@ def typingInput(text):
 def clearScreen():
   os.system("clear")
     
-typingPrint("Hello world...\n")
+typingPrint("Well hello there...\n")
 time.sleep(1)
 typingPrint("You've entered the Matrix!\n")
 time.sleep(1)
