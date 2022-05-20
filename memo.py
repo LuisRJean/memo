@@ -27,7 +27,7 @@ pillColor = typingInput("Will you take the blue or the red pill? (Type b for blu
 
 if pillColor == "b":
   typingPrint("You took the blue pill! ")
-  typingPrint("You are leaving the Matrix and going back to the real world!\n")
+  typingPrint("You are leaving the Matrix and going back to the real world! I hope you are content with your choice\n")
 elif pillColor == "r":
   typingPrint("You took the red pill! ")
   typingPrint("You will be stuck in the Matrix forever!\n")
