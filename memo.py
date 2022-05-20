@@ -32,7 +32,7 @@ elif pillColor == "r":
   typingPrint("You took the red pill! ")
   typingPrint("You will be stuck in the Matrix forever!\n")
 else:
-  typingPrint("Invalid answer!")
+  typingPrint("Are you reallly suprised...?")
 
 time.sleep(1)  
 typingPrint("Good bye!\n")
